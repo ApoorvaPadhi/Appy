@@ -1,0 +1,132 @@
+a {
+  color: #11999e;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{color: #eaf6f6;}
+.copyright{color: #eaf6f6;}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, sans-serif;
+}
+.bottom{
+  background-color: #66BFBF;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.contact{
+  margin-bottom: 20px;
+}
+.contactmsg{width: 25%;
+margin: auto;}
+.intro{width: 25%; margin:auto;}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: Sacramento, cursive;
+  font-size: 100px;
+  color: #66BFBF;
+}
+.btn{
+  font-family: Montserrat, cursive;
+
+  font-weight: bold;
+  color: #14396A !important;
+  font-size: 14px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #63B8EE;
+  background: linear-gradient(top,  #63B8EE,  #468CCF);
+  background: -ms-linear-gradient(top,  #63B8EE,  #468CCF);
+  background: -webkit-gradient(linear, left top, left bottom, from(#63B8EE), to(#468CCF));
+  background: -moz-linear-gradient(top,  #63B8EE,  #468CCF);
+}
+.btn:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #468CCF,  #63B8EE);
+  background: -ms-linear-gradient(top,  #468CCF,  #63B8EE);
+  background: -webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#63B8EE));
+  background: -moz-linear-gradient(top,  #468CCF,  #63B8EE);
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  color: #11999E
+}
+
+hr {
+  color: grey;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+  color: #40514e;
+}
+
+.pro {
+  margin-top: 10px;
+  width: 10%;
+}
+
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pizza {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+.skill-row2{
+  width: 50%;
+  margin: 50px auto 130px auto;
+  text-align: left;
+}
+
+
+.top {
+  background: #d3f6f3;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.botcl {
+  position: absolute;
+}
+
+.topcl {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  left: 1000px;
+}
