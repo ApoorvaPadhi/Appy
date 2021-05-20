@@ -32,7 +32,6 @@ h1 {
 }
 .btn{
   font-family: Montserrat, cursive;
-
   font-weight: bold;
   color: #14396A !important;
   font-size: 14px;
@@ -105,7 +104,7 @@ p {
   width: 50%;
   margin: 50px auto 50px auto;
   text-align: left;
-  padding-bottom: 2%;
+  padding-bottom: 5%;
 }
 .skill-row2{
   width: 50%;
@@ -129,6 +128,6 @@ p {
 .topcl {
   position: absolute;
   top: 50px;
-  /*right: 50px;*/
   left: 1000px;
 }
+
