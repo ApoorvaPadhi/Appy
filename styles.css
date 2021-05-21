@@ -25,7 +25,7 @@ margin: auto;}
 .intro{width: 25%; margin:auto;}
 
 h1 {
-  margin: 50px auto 0 auto;
+  margin: 0 0 3% 0;
   font-family: Sacramento, cursive;
   font-size: 100px;
   color: #66BFBF;
@@ -104,7 +104,7 @@ p {
   width: 50%;
   margin: 50px auto 50px auto;
   text-align: left;
-  padding-bottom: 7%;
+  padding-bottom: 5%;
 }
 .skill-row2{
   width: 50%;
@@ -116,18 +116,11 @@ p {
 .top {
   background: #d3f6f3;
   position: relative;
-  padding-top: 100px;
 }
-
-
 
 .botcl {
   position: absolute;
 }
-
-.topcl {
-  position: absolute;
-  top: 50px;
-  left: 1000px;
+.topcl{
+padding-left: 35%;
 }
-
